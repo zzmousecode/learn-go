@@ -1,2 +1,2 @@
 # learn-go
-Just some learnging code
+Just some learning code
